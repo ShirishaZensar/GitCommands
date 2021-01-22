@@ -8,3 +8,5 @@ Git & GitHub certification has steadily risen from being just a preferred skill 
 In this blog, I will talk about the Top 20 Git Commands that you will be using frequently while you are working with Git.
 
 Thus is updated changes made by me
+
+This is the changes done by me. That is Siri:)
